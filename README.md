@@ -42,3 +42,8 @@
 - ⚡ Fun fact: I love Gym! 😂😂
 
 ##
+
+<div>
+    <p>I'm currently 100% dedicated to Data Science and Data Analysis, all my projects are being published in this repository --> <a href="https://github.com/wilianuhlmann/DataScience" target="_blank">HERE</a></p>
+    <p>Atualmente estou me dedicando 100% a Ciência de dados e Analise de dados, todos meus projetos estão sendo publicados neste repositório  --> <a href="https://github.com/wilianuhlmann/DataScience" target="_blank">AQUI</a></p>   
+    </div>
