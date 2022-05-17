@@ -37,7 +37,7 @@
 
   ##
   
-- 🔭 I’m currently working at Amazon Brazil
+- 🔭 I’m currently working at Darede 
 - 🌱 I’m currently learning English, Machine learning models and Statistcs.
 - ⚡ Fun fact: I love Gym! 😂😂
 
