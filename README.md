@@ -37,7 +37,7 @@
 
   ##
   
-- 🔭 I’m currently working at Darede 
+- 🔭 I’m currently working Data Scientist at Darede 
 - 🌱 I’m currently learning English, Machine learning models and Statistcs.
 - ⚡ Fun fact: I love Gym! 😂😂
 
