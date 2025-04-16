@@ -96,18 +96,14 @@
          <a href="https://www.youtube.com/watch?v=OamGDrQQUuI" rel="nofollow">Live Darede #344 - Machine Learning na AWS
 
 
-
-
 </a>
      </li>
-               <li>
-         <a href="https://darede.com.br/agro-cloud-day/" rel="nofollow">Agro Cloud Day
-
-
-
-
-</a>
+     <li>
+         <a href="https://darede.com.br/agro-cloud-day/" rel="nofollow">Agro Cloud Day </a>
      </li>
-      
+     <li>
+         <a href="https://www.instagram.com/p/CrUax-vr2My/?igsh=MzE3bzI1ZDN2a2Zm" rel="nofollow">
+Como professor contratado pela CDS, ministrei um curso de formação em Machine Learning com foco em soluções end-to-end na AWS </a>
+     </li>     
      
  </ul>
