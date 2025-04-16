@@ -44,10 +44,6 @@
  ##
  <h3 class="heading-element" dir="auto">Articles and Blog Posts:</h3>
  <ul dir="auto">
-     <li>
-         <a href="https://www.youtube.com/watch?v=y2q-LbTbLaA" rel="nofollow">Com IA generativa da AWS, Futebolcard se antecipa a regulamentação em estádios
-</a>
-     </li>
       <li>
          <a href="https://medium.com/@wilianuhlmann/machine-learning-na-nuvem-da-aws-sem-surpresas-com-os-custos-5d0d6fffb2bd" rel="nofollow">Machine Learning na nuvem da AWS sem surpresas com os custos
 </a>
