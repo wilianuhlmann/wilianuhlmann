@@ -1,5 +1,19 @@
-### Hi, I'm Wilian Uhlmann and I a fanatic to Python, Data and Linux!!! ✌✌
+<h1 align="center">Hello, I'm Wilian Uhlmann </h1>
 
+<div align="center"> 
+  <a href="https://www.youtube.com/@WilianUhlmannAI" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/wiliancesaruhlmann/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+</div>
+
+<h3 class="heading-element" dir="auto">About me:</h3>
+<p align="left" dir="auto">
+    <samp>
+        🔩 I’m currently work as a Specialist Data Scientist <br>
+        🎓 I have a degree in computer science and an MBA in Data Science <br>
+        🏆 I collect some AWS certifications <a href="https://www.credly.com/users/wilian-cesar-uhlmann" rel="nofollow">Check :D</a><br>
+        😅 Fun fact: I love football and also riding my motorcycle on the roads of South America  <br>
+    </samp>
+</p>
 
 <div align="center">
     <a href="https://github.com/wilianuhlmann">
@@ -28,22 +42,76 @@
 </div>
 
  ##
-  
-<div> 
-  <a href="https://www.youtube.com/channel/UCn6Dm0VgHvt_mLiWsvHyX8A" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/datasciencedeverdade/?hl=pt" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/wiliancesaruhlmann/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-</div>
+ <h3 class="heading-element" dir="auto">Articles and Blog Posts:</h3>
+ <ul dir="auto">
+     <li>
+         <a href="https://www.youtube.com/watch?v=y2q-LbTbLaA" rel="nofollow">Com IA generativa da AWS, Futebolcard se antecipa a regulamentação em estádios
+</a>
+     </li>
+      <li>
+         <a href="https://medium.com/@wilianuhlmann/machine-learning-na-nuvem-da-aws-sem-surpresas-com-os-custos-5d0d6fffb2bd" rel="nofollow">Machine Learning na nuvem da AWS sem surpresas com os custos
+</a>
+     </li>
+     <li>
+         <a href="https://medium.com/@wilianuhlmann/toda-empresa-pode-usar-machine-learning-158b9ccfff95" rel="nofollow">Toda empresa pode usar Machine Learning?
+</a>
+     </li>
+          <li>
+         <a href="https://www.darede.com.br/toda-empresa-pode-usar-machine-learning/" rel="nofollow">Entenda como o Machine Learning pode alavancar os resultados da sua empresa
 
-  ##
-  
-- 🔭 I’m currently working Data Scientist at Darede 
-- 🌱 I’m currently learning English, Machine learning models and Statistcs.
-- ⚡ Fun fact: I love Gym! 😂😂
+</a>
+     </li>
 
-##
 
-<div>
-    <p>I'm currently 100% dedicated to Data Science and Data Analysis, all my projects are being published in this repository --> <a href="https://github.com/wilianuhlmann/DataScience" target="_blank">HERE</a></p>
-    <p>Atualmente estou me dedicando 100% a Ciência de dados e Analise de dados, todos meus projetos estão sendo publicados neste repositório  --> <a href="https://github.com/wilianuhlmann/DataScience" target="_blank">AQUI</a></p>   
-    </div>
+     
+ </ul>
+
+
+
+
+
+
+
+ <h3 class="heading-element" dir="auto">Lives, Videos and Public Events:</h3>
+ <ul dir="auto">
+     <li>
+         <a href="https://www.youtube.com/watch?v=y2q-LbTbLaA" rel="nofollow">Com IA generativa da AWS, Futebolcard se antecipa a regulamentação em estádios
+</a>
+     </li>
+       <li>
+         <a href="https://www.youtube.com/watch?v=VswhVV3GmD8" rel="nofollow">Live Darede - T05 E15: Certificação AWS AI Practitioner
+
+</a>
+     </li>
+      <li>
+         <a href="https://www.youtube.com/watch?v=H8csOHOz6w4" rel="nofollow">Live Darede - T05 E06: GenAI na AWS com participação do Vincius Caridá, Ph.D
+
+
+</a>
+     </li>
+     <li>
+         <a href="https://www.youtube.com/watch?v=IXZaPrmnA_4" rel="nofollow">Live Darede - T05 E03: Do Campo ao Código
+
+
+
+</a>
+     </li>
+          <li>
+         <a href="https://www.youtube.com/watch?v=OamGDrQQUuI" rel="nofollow">Live Darede #344 - Machine Learning na AWS
+
+
+
+
+</a>
+     </li>
+               <li>
+         <a href="https://darede.com.br/agro-cloud-day/" rel="nofollow">Agro Cloud Day
+
+
+
+
+</a>
+     </li>
+      
+     
+ </ul>
