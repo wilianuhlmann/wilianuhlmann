@@ -74,6 +74,11 @@
          <a href="https://www.youtube.com/watch?v=y2q-LbTbLaA" rel="nofollow">Com IA generativa da AWS, Futebolcard se antecipa a regulamentação em estádios
 </a>
      </li>
+   <li>
+         <a href="https://www.youtube.com/watch?v=od8v_oieok0" rel="nofollow">Video Case - FutebolCard
+
+</a>
+     </li>
        <li>
          <a href="https://www.youtube.com/watch?v=VswhVV3GmD8" rel="nofollow">Live Darede - T05 E15: Certificação AWS AI Practitioner
 
